@@ -1,0 +1,16 @@
+.background-dark{
+    background-color: #323234;
+}
+
+.no-margin-bottom{
+    margin-bottom: 0
+}
+
+.no-margin{
+    margin:0
+}
+
+.white-border{
+    color: white; 
+    border-bottom: 1px dotted white;
+}
